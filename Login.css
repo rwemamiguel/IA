@@ -1,0 +1,18 @@
+.login-box{
+    width: 20%;
+    background-color: blue;
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: inset;
+    animation: alternate;
+    width: 300px; 
+    height: 400px; 
+    background-color: rgb(135, 103, 103);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    padding: 30px;
+    box-sizing: border-box;
+}
+   input{
+    background-color: rgb(240, 244, 240);
+}
