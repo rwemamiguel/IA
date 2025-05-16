@@ -4,7 +4,7 @@
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(135deg, #6366f1, #8b5cf6);
+      background: linear-gradient(135deg, #29a661, #03561b);
       display: flex;
       align-items: center;
       justify-content: center;
@@ -41,12 +41,12 @@
     }
     input:focus {
       outline: none;
-      border-color: #6366f1;
+      border-color: #03561b;
     }
     button {
       width: 100%;
       padding: 0.75rem;
-      background-color: #6366f1;
+      background-color: #03561b;
       color: white;
       border: none;
       border-radius: 8px;
@@ -55,7 +55,7 @@
       transition: background-color 0.3s;
     }
     button:hover {
-      background-color: #4f46e5;
+      background-color: #0d6d29;
     }
     .login-link {
       text-align: center;
@@ -64,7 +64,7 @@
       color: #6b7280;
     }
     .login-link a {
-      color: #6366f1;
+      color: #03561b;
       text-decoration: none;
     }
     .login-link a:hover {
